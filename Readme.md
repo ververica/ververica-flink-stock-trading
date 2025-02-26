@@ -54,4 +54,4 @@ Replace `SmartTradeExecution` with the desired job name.
 
 - Java 11
 - Maven
-- Apache Flink \(version compatible with the project\)
+- Apache Flink 1.17
